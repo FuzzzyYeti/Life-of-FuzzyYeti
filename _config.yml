@@ -78,10 +78,12 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://cdn.jsdelivr.net/gh/FuzzzyYeti/Life-of-FuzzyYeti@tree/master/assets/img"
+img_cdn: "https://cdn.jsdelivr.net/gh/FuzzzyYeti/Life-of-FuzzyYeti@master/assets/img"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/avatar.jpg"
+
+#https://chirpy-img.netlify.app/commons/avatar.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

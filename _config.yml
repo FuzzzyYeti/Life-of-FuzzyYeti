@@ -78,7 +78,8 @@ pageviews:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://cdn.jsdelivr.net/gh/FuzzzyYeti/Life-of-FuzzyYeti@master/assets/img"
+img_cdn: "https://cdn.jsdelivr.net/gh/FuzzzyYeti/Life-of-FuzzyYeti@master"
+
 #https://cdn.jsdelivr.net/gh/FuzzzyYeti/Life-of-FuzzyYeti@master/assets/img
 # the avatar on sidebar, support local or CORS resources
 avatar: "/avatar.jpg"
